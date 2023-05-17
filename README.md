@@ -1,4 +1,3 @@
-# golang-learn-go-restapi-gin
 # Belajar GOLANG restapi dengan GIN - Mysql
 
 Ini adalah rest api pertama kali yang saya buat ketika belajar GOLANG
