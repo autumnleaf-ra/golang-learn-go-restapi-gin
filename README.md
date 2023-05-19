@@ -6,16 +6,15 @@ Simple API with CRUD feature
 1. MySQL
 2. Golang
 3. External packages :
-* SQL driver for MySQL 
+* XAMPP
 * Gin
 * Gorm
 
 ## Prerequisites
 Enter the following command to install sql driver for mysql, gin and gorm in the project.
 ```
-go get github.com/go-sql-driver/mysql
 go get github.com/gin-gonic/gin
-go get github.com/jinzhu/gorm
+go get github.com/gorm.io/gorm
 ```
 
 ## Running the REST API
